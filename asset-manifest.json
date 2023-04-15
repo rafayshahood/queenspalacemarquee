@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/queenspalacemarquee/static/css/main.e7f2860a.css",
+    "main.css": "/queenspalacemarquee/static/css/main.c64515ef.css",
     "main.js": "/queenspalacemarquee/static/js/main.2cbff4f8.js",
     "static/js/787.109e96ad.chunk.js": "/queenspalacemarquee/static/js/787.109e96ad.chunk.js",
     "static/media/trust&danceFloor.JPG": "/queenspalacemarquee/static/media/trust&danceFloor.d7259803340a9a3ca15d.JPG",
@@ -8,12 +8,12 @@
     "static/media/stageDecor.JPG": "/queenspalacemarquee/static/media/stageDecor.abc166e776df39979f62.JPG",
     "static/media/frontDesk.JPG": "/queenspalacemarquee/static/media/frontDesk.d7fb56d40ffa3269909a.JPG",
     "index.html": "/queenspalacemarquee/index.html",
-    "main.e7f2860a.css.map": "/queenspalacemarquee/static/css/main.e7f2860a.css.map",
+    "main.c64515ef.css.map": "/queenspalacemarquee/static/css/main.c64515ef.css.map",
     "main.2cbff4f8.js.map": "/queenspalacemarquee/static/js/main.2cbff4f8.js.map",
     "787.109e96ad.chunk.js.map": "/queenspalacemarquee/static/js/787.109e96ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7f2860a.css",
+    "static/css/main.c64515ef.css",
     "static/js/main.2cbff4f8.js"
   ]
 }
