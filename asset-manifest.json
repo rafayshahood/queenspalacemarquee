@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/queenspalacemarquee/static/css/main.4b971e48.css",
-    "main.js": "/queenspalacemarquee/static/js/main.d56af761.js",
+    "main.css": "/queenspalacemarquee/static/css/main.e7f2860a.css",
+    "main.js": "/queenspalacemarquee/static/js/main.2cbff4f8.js",
     "static/js/787.109e96ad.chunk.js": "/queenspalacemarquee/static/js/787.109e96ad.chunk.js",
-    "static/media/logo.svg": "/queenspalacemarquee/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/trust&danceFloor.JPG": "/queenspalacemarquee/static/media/trust&danceFloor.d7259803340a9a3ca15d.JPG",
+    "static/media/Chairs.JPG": "/queenspalacemarquee/static/media/Chairs.09f0ab6fce3e10426115.JPG",
+    "static/media/stageDecor.JPG": "/queenspalacemarquee/static/media/stageDecor.abc166e776df39979f62.JPG",
+    "static/media/frontDesk.JPG": "/queenspalacemarquee/static/media/frontDesk.d7fb56d40ffa3269909a.JPG",
     "index.html": "/queenspalacemarquee/index.html",
-    "main.4b971e48.css.map": "/queenspalacemarquee/static/css/main.4b971e48.css.map",
-    "main.d56af761.js.map": "/queenspalacemarquee/static/js/main.d56af761.js.map",
+    "main.e7f2860a.css.map": "/queenspalacemarquee/static/css/main.e7f2860a.css.map",
+    "main.2cbff4f8.js.map": "/queenspalacemarquee/static/js/main.2cbff4f8.js.map",
     "787.109e96ad.chunk.js.map": "/queenspalacemarquee/static/js/787.109e96ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b971e48.css",
-    "static/js/main.d56af761.js"
+    "static/css/main.e7f2860a.css",
+    "static/js/main.2cbff4f8.js"
   ]
 }
