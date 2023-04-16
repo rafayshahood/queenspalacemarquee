@@ -7,13 +7,11 @@ import Header from './Components/Header';
 import Footer from './Components/Footer'
 import OpenGraph from './Components/OpenGraph';
 import Services from './Components/Services';
-const { frontDesk, catering, trustdanceFloor, stageDecor, coopEventHallDecor, coopEventLobbyDecor, sweetBar, frontPic, frontPic2, stageDecor2 } = images;
+const { frontDesk, catering, trustdanceFloor, stageDecor, coopEventHallDecor, coopEventLobbyDecor, sweetBar, frontPic2, stageDecor2 } = images;
 
 
 
 function App() {
-
-  const images = [frontDesk,stageDecor,trustdanceFloor];
 
   const sliderImages = [
     {

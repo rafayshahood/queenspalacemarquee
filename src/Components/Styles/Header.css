@@ -23,10 +23,11 @@
   }
   
   .header-marquee-name {
-    font-size: 13px;
+    font-size: 100%;
     text-align: center;
     color: black;
-    text-shadow: 1px 1px 1px #830202;
+    font-family: Roboto,'Open Sans';
+
   }
   
   .header-social-icons {
