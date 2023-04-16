@@ -1,0 +1,43 @@
+/* Footer Component CSS Code */
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding-right: 4%;
+    padding-left: 3.5%;
+    padding-top: .4rem;
+    padding-bottom: .2rem;
+  }
+  
+  .footer-social-icons {
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+  }
+  
+  .footer-social-icons a {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+    color: blue;
+    padding-top: .5rem;
+  
+  }
+  
+  .footer-social-icons a:last-child {
+    margin-right: 0;
+    color: green;
+  }
+  
+  
+  
+  @media screen and (max-width: 600px) {
+    .social-icons {
+      font-size: 20px;
+    }
+  }
+  

@@ -1,0 +1,48 @@
+/* Header CSS */
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding-right: 4%;
+    padding-left: 2%;
+  }
+  
+  .header-logo {
+    width: 50px;
+    height: 40px;
+    margin-right: 20px;
+  }
+  
+  .header-logo img{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+  }
+  
+  .header-marquee-name {
+    font-size: 13px;
+    text-align: center;
+    color: black;
+    text-shadow: 1px 1px 1px #830202;
+  }
+  
+  .header-social-icons {
+    display: flex;
+    align-items: center;
+    font-size: 34px;
+    padding-top: .5rem;
+  }
+  
+  .header-social-icons a {
+    display: inline-block;
+    color: green;
+  
+  }
+  
+  .header-social-icons a:first-child {
+    margin-right: 30px;
+    color: blue;
+  }
