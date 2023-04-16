@@ -37,3 +37,25 @@
     font-size:85%;
   }
   
+    /* For screens smaller than 768px */
+    @media (max-width: 768px) {
+      .footer-social-icons a {
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        margin-right: 10px;
+        color: blue;
+        padding-top: .5rem;
+      
+      }
+      
+      .footer-social-icons a:last-child {
+        margin-right: 0;
+        color: green;
+      }
+
+      .copyright p{
+        font-size:65%;
+      }
+    }
+    
