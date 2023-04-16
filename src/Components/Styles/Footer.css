@@ -9,7 +9,7 @@
     padding-right: 4%;
     padding-left: 3.5%;
     padding-top: .4rem;
-    padding-bottom: .2rem;
+    padding-bottom: .6rem;
   }
   
   .footer-social-icons {
@@ -33,11 +33,7 @@
     color: green;
   }
   
-  
-  
-  @media screen and (max-width: 600px) {
-    .social-icons {
-      font-size: 20px;
-    }
+  .copyright p{
+    font-size:85%;
   }
   
