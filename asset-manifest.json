@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/queenspalacemarquee/static/css/main.aa00e1d5.css",
-    "main.js": "/queenspalacemarquee/static/js/main.25d3113a.js",
-    "static/js/787.109e96ad.chunk.js": "/queenspalacemarquee/static/js/787.109e96ad.chunk.js",
-    "static/media/trust&danceFloor.JPG": "/queenspalacemarquee/static/media/trust&danceFloor.d7259803340a9a3ca15d.JPG",
-    "static/media/stageDecor2.JPG": "/queenspalacemarquee/static/media/stageDecor2.9caa47f804d14bb1ffba.JPG",
-    "static/media/sweetBar.JPG": "/queenspalacemarquee/static/media/sweetBar.30dc733fa2f62f49c17e.JPG",
-    "static/media/chairs.JPG": "/queenspalacemarquee/static/media/chairs.09f0ab6fce3e10426115.JPG",
-    "static/media/coopEventHallDecor.JPG": "/queenspalacemarquee/static/media/coopEventHallDecor.0d663a1dfc1d6089694e.JPG",
-    "static/media/coopEventLobbyDecor.JPG": "/queenspalacemarquee/static/media/coopEventLobbyDecor.3ed1f1d63f1e374fe1d9.JPG",
-    "static/media/stageDecor.JPG": "/queenspalacemarquee/static/media/stageDecor.abc166e776df39979f62.JPG",
-    "static/media/frontPic2.JPG": "/queenspalacemarquee/static/media/frontPic2.5d575dd8dd3a3654f7d1.JPG",
-    "static/media/frontDesk.JPG": "/queenspalacemarquee/static/media/frontDesk.d7fb56d40ffa3269909a.JPG",
-    "static/media/frontPic.JPG": "/queenspalacemarquee/static/media/frontPic.333c01444310321787ac.JPG",
-    "index.html": "/queenspalacemarquee/index.html",
-    "main.aa00e1d5.css.map": "/queenspalacemarquee/static/css/main.aa00e1d5.css.map",
-    "main.25d3113a.js.map": "/queenspalacemarquee/static/js/main.25d3113a.js.map",
-    "787.109e96ad.chunk.js.map": "/queenspalacemarquee/static/js/787.109e96ad.chunk.js.map"
+    "main.css": "/static/css/main.d9de3db5.css",
+    "main.js": "/static/js/main.e411a672.js",
+    "static/js/787.109e96ad.chunk.js": "/static/js/787.109e96ad.chunk.js",
+    "static/media/trust&danceFloor.JPG": "/static/media/trust&danceFloor.d7259803340a9a3ca15d.JPG",
+    "static/media/stageDecor2.JPG": "/static/media/stageDecor2.9caa47f804d14bb1ffba.JPG",
+    "static/media/sweetBar.JPG": "/static/media/sweetBar.30dc733fa2f62f49c17e.JPG",
+    "static/media/chairs.JPG": "/static/media/chairs.09f0ab6fce3e10426115.JPG",
+    "static/media/coopEventHallDecor.JPG": "/static/media/coopEventHallDecor.0d663a1dfc1d6089694e.JPG",
+    "static/media/coopEventLobbyDecor.JPG": "/static/media/coopEventLobbyDecor.3ed1f1d63f1e374fe1d9.JPG",
+    "static/media/stageDecor.JPG": "/static/media/stageDecor.abc166e776df39979f62.JPG",
+    "static/media/frontPic2.JPG": "/static/media/frontPic2.5d575dd8dd3a3654f7d1.JPG",
+    "static/media/frontDesk.JPG": "/static/media/frontDesk.d7fb56d40ffa3269909a.JPG",
+    "static/media/frontPic.JPG": "/static/media/frontPic.333c01444310321787ac.JPG",
+    "index.html": "/index.html",
+    "main.d9de3db5.css.map": "/static/css/main.d9de3db5.css.map",
+    "main.e411a672.js.map": "/static/js/main.e411a672.js.map",
+    "787.109e96ad.chunk.js.map": "/static/js/787.109e96ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa00e1d5.css",
-    "static/js/main.25d3113a.js"
+    "static/css/main.d9de3db5.css",
+    "static/js/main.e411a672.js"
   ]
 }
